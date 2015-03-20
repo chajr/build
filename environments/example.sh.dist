@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+HOST=''
+DIR=''
+REPOSITORY=''
+BRANCH=''
+SKIP_TESTS=''
