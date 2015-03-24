@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-HOST=''
-DIR=''
-REPOSITORY=''
-BRANCH=''
-SKIP_TESTS=''
+export HOST=''
+export DIR=''
+export REPOSITORY=''
+export BRANCH=''
+export SKIP_TESTS=''
